@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+}
+ 
+
+.andemy{
+    background: rgb(236, 229, 229);
+}
+header{
+    position: initial;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 15%;
+    border-bottom: 1px solid transparent;
+}
+.navlist{
+    display: flex;
+    text-align: center;
+    opacity: 0.7;
+   
+}
+.active{
+    text-decoration: underline;
+}
+.navlist a{
+    color: black;
+    font-weight: 500;
+    font-size: 17px;
+    margin: 0 25px;
+    transition: all .45 ease;
+     
+}
+.navlist a:hover{
+    text-decoration: underline;
+}
+section{
+    padding: 65px 1% 0px;
+ }
+ .form1{
+    display: grid;
+    grid-template-columns: 500px 500px;
+    margin-left: 70px;
+ }
+ .form3{
+    margin-left: 300px;
+ }
+ .how{
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    font-weight: lighter;
+
+ }
+.hw{
+    
+    line-height: 1.5;
+    font-size: 17px;
+}
+.typec{
+    width: 700px;
+    height: 50px;
+    background: transparent;
+    stop-opacity: initial;
+}
+.about{
+    display: grid;
+    height: 42px;
+    width: 100px;
+    position: relative;
+    line-height: 40px;  
+   border-radius: 20px;
+     font-size: 14px;
+     font-weight: 400;
+     font-family: Roboto;
+     background: rgb(10, 27, 49);
+    color: white;
+    text-align: start;
+    justify-content: center;
+}
+.ui{
+    margin-bottom: 150px;
+}
+ 

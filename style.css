@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+}
+ 
+
+.andemy{
+    background: rgb(236, 229, 229);
+}
+header{
+    position: initial;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 15%;
+    border-bottom: 1px solid transparent;
+}
+.navlist{
+    display: flex;
+    text-align: center;
+    opacity: 0.7;
+   
+}
+.active{
+    text-decoration: underline;
+}
+.navlist a{
+    color: black;
+    font-weight: 500;
+    font-size: 17px;
+    margin: 0 25px;
+    transition: all .45 ease;
+     
+}
+.navlist a:hover{
+    text-decoration: underline;
+}
+section{
+    padding: 65px 1% 0px;
+ }
+ .joy{
+    text-align: center;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .sule{
+    text-align: center;
+    font-size: 50px;
+ }
+ .img{
+    text-align: center;
+ }
+  
+ #felix{
+    text-align: center;
+    align-content: center;
+    font-size: 35px;
+    font-family: sans-serif;
+
+ }
+ .com{
+    align-items: center;
+
+ }
+ .about{
+    display: grid;
+    height: 42px;
+    width: 130px;
+    position: relative;
+    line-height: 40px;  
+   border-radius: 20px;
+     font-size: 14px;
+     font-weight: 400;
+     font-family: Roboto;
+     background: rgb(10, 27, 49);
+    color: white;
+    text-align: start;
+    justify-content: center;
+    margin-left: 600px;
+    
+ }
+ .desktop{
+    display: grid;
+    grid-template-columns: 450px 600px;
+     margin-left: 70px;
+     margin-top: 140px;
+     
+ }
+ .son{
+    display: grid;
+    grid-template-columns: 100px 100px;
+ }
+ .dio{
+    font-weight: bold;
+   
+ }
+ .dad{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+ }
+ .dorcas{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+ }
+ .mum{
+    margin-left: 300px;
+    line-height: 2.0;
+     
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.reg{
+    display: grid;
+    grid-template-columns: 450px 790px;
+    margin-left: 70px;
+    margin-top: 150px;
+     
+
+}
+.one{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ .two{
+    margin-left: 200px;
+    line-height: 2.0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .ty{
+    font-size: 40px;
+    font-weight: bold;
+    font-family:  Arial, Helvetica, sans-serif
+ }
+ .last{
+    background-color: rgb(24, 43, 36);
+    color: white;
+    text-align: center;
+     height: 500px;
+    padding-top: 150px;
+ }
+  #all{
+      text-align: center;
+    font-size: 35px;
+    font-family:  Helvetica, sans-serif;
+    font-style: normal;
+ }
+ .us{
+    font-size: 15px;
+    align-items: center;
+ }
+ .emmy{
+    display: grid;
+    height: 42px;
+    width: 130px;
+    position: relative;
+    line-height: 40px;  
+   border-radius: 20px;
+     font-size: 14px;
+     font-weight: 400;
+     font-family: Roboto;
+     background: transparent;
+     color: white;
+    text-align: start;
+    justify-content: center;
+    margin-left: 600px;
+    border: 1px solid;
+     
+    
+}
+.emmy:hover{
+     
+    background-color: rgb(56, 75, 75);
+}
+.ui{
+    margin-bottom: 150px;
+}
+ 
+   
+  
+ 
+  
